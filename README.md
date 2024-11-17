@@ -13,3 +13,4 @@ Modern Design: Stylish UI with hover and active effects for buttons.
 HTML5 for structuring the calculator layout.
 CSS3 for styling, responsive design, and modern UI effects.
 JavaScript for implementing calculator logic and interactions.
+..
