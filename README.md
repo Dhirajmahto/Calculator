@@ -14,3 +14,6 @@ HTML5 for structuring the calculator layout.
 CSS3 for styling, responsive design, and modern UI effects.
 JavaScript for implementing calculator logic and interactions.
 ..
+
+### Project Link
+[View the project here](https://67ddd13dc5172a088d8ebb30--ephemeral-paprenjak-86bdd7.netlify.app/)
